@@ -1,0 +1,40 @@
+{
+    "comidas":[
+        {
+            "id":1,
+            "nombre":"Conchitas a la Parmesana",
+            "url":" https://1.bp.blogspot.com/-1gpQXGuUxZY/X-NR-IfTK5I/AAAAAAAAPKk/GPFcQrTeYRQSUctlJjcvOajaoLuElqMSgCLcBGAsYHQ/s1200/Conchitas%2Ba%2Bla%2Bparmesana.jpg",
+            "categoria":1
+        },
+        {
+            "id":1,
+            "nombre":"Causa de Pollo",
+            "url":"https://elcomercio.pe/resizer/1xz3w_26FwRA5JuSn02p9afc97g=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7QDRJTB2DZHB7IQL3HF4IK6OX4.jpg",
+            "categoria":1
+        },
+        {
+            "id":1,
+            "nombre":"Leche de Tigre",
+            "url":"https://elcomercio.pe/resizer/6TR0Lcwmg4Z_vm0JlNbscb4JNMA=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VN5X2O53B5E4VINDN7TGWQLUQ4.jpg",
+            "categoria":1
+        },
+        {
+            "id":1,
+            "nombre":"Ceviche de Pesacdo",
+            "url":"https://trome.pe/resizer/-R8GQPfZoAOK4V9uCalvv6FeYEs=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMEMVCZ2KJAATPYX2JT7FDPT5Q.jpg",
+            "categoria":1
+        },
+        {
+            "id":2,
+            "nombre":"Arroz con Mariscos",
+            "url":"https://elcomercio.pe/resizer/2NsfDVlLCtb6UlSre99ZthqWhP8=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NEE6QF2DE5D7VIM3CTX3SBU6FI.jpg",
+            "categoria":2
+        },
+        {
+            "id":3,
+            "nombre":"Chicha Morada",
+            "url":"https://elcomercio.pe/resizer/hFBXMzUVwnOLwhZrKRyKUOYx_dU=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZW3LRBMABAA5IZPHJ36MJZX5I.jpg",
+            "categoria":3
+        }
+    ]
+}
